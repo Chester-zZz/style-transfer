@@ -21,9 +21,19 @@ An inplementation of style-transfer using tensorflow. 用tensorflow实现的图�
 ## 结果
 
 由于没有强力GPU，没得出有效的结果。不过大体的样子有了，如下图：
-| 原图 | 风格图 | 结果图  |
-| :----: | :----: | :----: |
-| <img src='./images/train_images/source.jpg'> | <img src='./images/style.jpg'> |   <img src='./images/result/3/transferred-4499.jpg'> |
+<table>
+  <tr>
+    <th width=20% >原图</th>
+    <th width=20%>风格图</th>
+    <th width="20%">结果图</th>
+  </tr>
+  <tr>
+    <td ><img src='./images/train_images/source.jpg'></td>
+    <td> <img src='./images/style.jpg'></td>
+    <td> <img src='./images/result/3/transferred-4499.jpg'></td>
+  </tr>
+  
+</table>
 
 可以看出，结果图中已经有波浪的纹理出现。
 
