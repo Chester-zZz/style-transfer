@@ -1,10 +1,9 @@
 # style-transfer
 An inplementation of style-transfer using tensorflow. 用tensorflow实现的图像风格转换网络。
 
-## 参考：
+## 论文：
 [Perceptual losses for real-time style transfer and super-resolution](https://arxiv.org/abs/1603.08155)
 
-[代码主要参考](https://github.com/lengstrom/fast-style-transfer)
 
 加了很多中文注释，版本适合Python3。
 
